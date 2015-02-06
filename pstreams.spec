@@ -1,7 +1,7 @@
 Summary:	POSIX Process Control in C++
 Name:		pstreams
 Version:	0.8.0
-Release:	1
+Release:	2
 License:	LGPLv3+
 Group:		Development/C++
 Url:		http://%{name}.sourceforge.net/
