@@ -4,7 +4,7 @@ Version:	0.8.0
 Release:	2
 License:	LGPLv3+
 Group:		Development/C++
-Url:		http://%{name}.sourceforge.net/
+Url:		https://%{name}.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 BuildRequires:	doxygen
 BuildArch:	noarch
