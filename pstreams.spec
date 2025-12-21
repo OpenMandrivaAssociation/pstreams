@@ -6,6 +6,7 @@ License:	LGPLv3+
 Group:		Development/C++
 Url:		https://%{name}.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:	doxygen
 BuildArch:	noarch
 
